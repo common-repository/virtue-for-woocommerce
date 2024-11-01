@@ -1,0 +1,7 @@
+*** Virtue for Woocommerce Changelog ***
+2023-09-15 - version 1.0.1
+ * Fix for adding the customer donation to cart on the cart page.
+2023-04-18 - version 1.0.0
+ * Initial integration of Virtue with WooCommerce.
+ * You can now run all Virtue giving campaigns on your WooCommerce store.
+ * This includes - Store giving from sales, Customer donations at checkout and Upsell giving.

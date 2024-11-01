@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for the admin-specific functionality
+ */
+ .text-center{
+  text-align: center;
+ }
+ .d-flex {
+  display:flex;
+ }
